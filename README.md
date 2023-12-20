@@ -12,7 +12,7 @@ This repository contains a shell script (`setup.sh`) and a configuration file (`
 1. Clone this repository or download the `setup.sh` and `config.txt` files.
    
 ```bash
-git clone https://github.com/your-repo/mac-setup.git
+git clone https://github.com/fowenati/batched-brewer.git
 cd mac-setup
 ```
 
