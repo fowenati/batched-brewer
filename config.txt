@@ -1,24 +1,9 @@
+// Configuration file
+
 MAC_USER=myusername
 
-FORMULAE="abseil jpeg-turbo numpy adns jpeg-xl oniguruma aircrack-ng jq 
-openblas ansible json-c openexr ant k9s openjdk antigen krb5 openjpeg aom 
-kubernetes-cli openssl@3 apache-arrow libaec pcre aws-sdk-cpp libde265 
-pcre2 boost libgeotiff pixman bottom libheif poppler brotli libidn2 popt 
-bzip2 libkml postgis c-ares liblerc postgresql@14 ca-certificates 
-liblinear powerlevel10k cairo libmpc proj cffi libnghttp2 protobuf cfitsio 
-libpng protobuf-c cgal libpq pycparser ctop librttopo python@3.11 docker 
-libspatialite pyyaml eigen libssh2 qhull epsilon libtiff ranger expat 
-libtool rapidjson fontconfig libunistring re2 freetype libuv readline 
-freexl libvmaf sfcgal fzf libx11 shared-mime-info gcc libxau six gdal 
-libxcb snappy geos libxdmcp speedtest-cli gettext libxext sqlite gflags 
-libxml2 tart gh libxrender thrift giflib libyaml unixodbc glib little-cms2 
-uriparser glog lua utf8proc glow lz4 viddy gmp lzo webp grafana m4 wget 
-graphite2 mas wifi-password grpc minizip x265 harfbuzz mpdecimal xerces-c 
-hdf5 mpfr xorgproto helm mtr xz highway ncurses zsh-autosuggestions htop 
-netcdf zsh-completions icu4c nmap zsh-syntax-highlighting imath node zstd 
-isl nspr jansson nss"
+// Seperate by spaces
 
-CASKS="appcleaner julia slack barrier multipass spotify coconutbattery 
-obsidian steam discord raspberry-pi-imager the-unarchiver figma sf-symbols 
-utm"
+FORMULAE=""
+CASKS=""
 
